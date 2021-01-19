@@ -1,0 +1,42 @@
+[
+	{
+		"id": 342245454,
+		"firstname": "Олександр",
+		"lastname": "Хорт",
+		"warns": 0,
+		"role": 1,
+		"flip": 0,
+		"botmute": 1611049973899,
+		"rank": "Участник",
+		"ban": false,
+		"isBanned": "Нет",
+		"tempban": 0,
+		"mute": 0,
+		"mutesleft": 0,
+		"violations": 0,
+		"nick": "OJIEKCAHDP",
+		"nickmute": 1611092470714,
+		"botban": false,
+		"commands": 10
+	},
+	{
+		"id": 289353052,
+		"firstname": "Александр",
+		"lastname": "Хорт",
+		"warns": 0,
+		"role": "123",
+		"flip": 0,
+		"botmute": 0,
+		"rank": "Участник",
+		"ban": false,
+		"isBanned": "Нет",
+		"tempban": 0,
+		"mute": 0,
+		"mutesleft": 0,
+		"violations": 0,
+		"nick": "Не установлен",
+		"nickmute": 0,
+		"botban": false,
+		"commands": 0
+	}
+]
